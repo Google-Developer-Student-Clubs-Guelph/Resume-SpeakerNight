@@ -1,2 +1,17 @@
-# Resume-SpeakerNight
-Resources discussed at GDSC Guelph's Resume and Speaker Night
+# ResumeAndSpeakerNight
+Here is a list of the resources discussed at GDSC Guelph's Resume and Speaker Night, and maybe a few extra ones.
+
+## Popular Resume Templates
+### Template 1 - Jake's Format (uses LaTex)
+- https://www.overleaf.com/latex/templates/jakes-resume-anonymous/cstpnrbkhndn
+
+
+## Interview Prep Resources 
+- **Leetcode -->** https://leetcode.com/
+- **Grokking Coding Interview Patterns** _(we recommend going through the list of questions on leetcode. You do not need to pay for this course simply use it as a guide)_ **-->** https://www.educative.io/courses/grokking-coding-interview-patterns-python
+- **Cracking the Coding Interview (book) -->** https://www.crackingthecodinginterview.com/
+
+## Resources to Self Teach
+Use the following sites to find courses on any topic...
+- **Udemy -->** https://www.udemy.com/
+- **Coursera -->** https://www.coursera.org/
