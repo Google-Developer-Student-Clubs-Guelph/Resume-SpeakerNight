@@ -5,6 +5,9 @@ Here is a list of the resources discussed at GDSC Guelph's Resume and Speaker Ni
 ### Template 1 - Jake's Format (uses LaTex)
 - https://www.overleaf.com/latex/templates/jakes-resume-anonymous/cstpnrbkhndn
 
+### Template 2 (uses Google Docs)
+- https://docs.google.com/document/d/1howRSt_WqZLMQ6JBPDj0Z3qQj5RNEbdtersexJHkZDs/edit?usp=sharing
+
 
 ## Interview Prep Resources 
 - **Leetcode -->** https://leetcode.com/
