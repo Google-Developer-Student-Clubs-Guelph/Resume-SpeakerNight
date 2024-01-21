@@ -14,7 +14,6 @@ Here is a list of the resources discussed at GDSC Guelph's Resume and Speaker Ni
 ### Template 4 (uses Google Docs)
 - https://docs.google.com/document/d/1S2Z4AR1f0OEkiN6w9QV9F-3KRjnamGeZcobUF7ZjOWE/edit?usp=sharing
 
-
 ## Interview Prep Resources 
 - **Leetcode -->** https://leetcode.com/
 - **Neetcode -->** https://neetcode.io/roadmap
@@ -24,7 +23,11 @@ Here is a list of the resources discussed at GDSC Guelph's Resume and Speaker Ni
 - **Cracking the Coding Interview (paid) -->** https://www.crackingthecodinginterview.com/
 
 ## Where to find Job Postings
-- https://github.com/SimplifyJobs/Summer2024-Internships 
+- https://github.com/SimplifyJobs/Summer2024-Internships
+- https://discord.gg/cscareers
+
+## Basil's Checklist
+- https://firstyear-checklist.vercel.app/
 
 ## Resources to Self Teach
 Use the following sites to find courses on any topic...
