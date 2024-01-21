@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="center">Here is a list of the resources discussed at <strong>GDSC Guelph's Resume and Speaker Night</strong>, and a few extra ones.</p>
+<p align="center">Here is a list of the resources discussed at <strong>GDSC Guelph's Resume & Speaker Night</strong>, and a few extra ones.</p>
 <p align="center"><em>Give this repo a star if you found it helpful!</em></p>
 
 ## Popular Resume Templates
