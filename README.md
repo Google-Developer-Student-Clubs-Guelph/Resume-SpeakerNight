@@ -1,4 +1,4 @@
-# ResumeAndSpeakerNight
+# Resume & Speaker Night
 
 <p align="center">
   <img src="https://github.com/Google-Developer-Student-Clubs-Guelph/ResumeAndSpeakerNight/assets/58868225/f0fdbcbd-8f3e-4d67-b12a-021589fad78b" alt="icon copy" width="300">
